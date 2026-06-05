@@ -1,0 +1,42 @@
+# Eclipse
+
+.metadata/
+.settings/
+.project
+.classpath
+
+# Build folders
+
+bin/
+build/
+target/
+
+# Java compiled files
+
+*.class
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Secrets
+
+.env
+application.properties
+db.properties
+
+# IDE
+
+.idea/
+.vscode/
+
+# Tomcat temp
+
+work/
+temp/
+catalina.out
