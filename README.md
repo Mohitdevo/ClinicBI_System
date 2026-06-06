@@ -10,8 +10,9 @@ https://clinicbi-system.onrender.com
 ## Demo Access
 
 Use the following credentials to explore the application:
+
 Username: demo@gmail.com
-Password: demo123
+Password: Demo123
 
 ##  Features
 
