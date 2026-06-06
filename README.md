@@ -7,6 +7,12 @@ A full-stack **Clinic Management System** developed using **Java, JSP, Servlets,
 
 https://clinicbi-system.onrender.com
 
+## Demo Access
+
+Use the following credentials to explore the application:
+Username: demo@gmail.com
+Password: demo123
+
 ##  Features
 
 * Secure user authentication
